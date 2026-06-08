@@ -38,9 +38,9 @@ export default function FlashCard({ card, theme, onSwipe, index, total }: FlashC
 
   const handlePointerUp = () => {
     setIsDragging(false);
-    if (dragX > 80) {
+    if (dragX < -80) {
       onSwipe('right');
-    } else if (dragX < -80) {
+    } else if (dragX > 80) {
       onSwipe('left');
     } else {
       setDragX(0);
@@ -71,10 +71,10 @@ export default function FlashCard({ card, theme, onSwipe, index, total }: FlashC
 
       {/* Swipe hints */}
       <div className="flex justify-between w-full max-w-md px-1 h-6">
-        <span className={`text-sm font-medium text-gray-400 transition-opacity duration-150 ${swipeHintLeft ? 'opacity-100' : 'opacity-0'}`}>
+        <span className={`text-sm font-medium text-gray-400 transition-opacity duration-150 ${swipeHintRight ? 'opacity-100' : 'opacity-0'}`}>
           ← Vorige
         </span>
-        <span className={`text-sm font-medium text-gray-400 transition-opacity duration-150 ${swipeHintRight ? 'opacity-100' : 'opacity-0'}`}>
+        <span className={`text-sm font-medium text-gray-400 transition-opacity duration-150 ${swipeHintLeft ? 'opacity-100' : 'opacity-0'}`}>
           Volgende →
         </span>
       </div>
