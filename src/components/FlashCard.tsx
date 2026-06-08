@@ -54,9 +54,9 @@ export default function FlashCard({ card, theme, onSwipe, index, total }: FlashC
   const swipeHintRight = isDragging && dragX > 30;
 
   return (
-    <div className="flex flex-col items-center gap-4 select-none" key={cardKey}>
+    <div className="flex flex-col items-center w-full gap-4 select-none" key={cardKey}>
       {/* Progress bar */}
-      <div className="w-full max-w-md">
+      <div className="">
         <div className="flex justify-between text-xs text-gray-400 mb-1">
           <span>{theme.label}</span>
           <span>{index + 1} / {total}</span>
@@ -70,7 +70,7 @@ export default function FlashCard({ card, theme, onSwipe, index, total }: FlashC
       </div>
 
       {/* Swipe hints */}
-      <div className="flex justify-between w-full max-w-md px-1 h-6">
+      <div className="flex justify-between px-1 h-6">
         <span className={`text-sm font-medium text-gray-400 transition-opacity duration-150 ${swipeHintRight ? 'opacity-100' : 'opacity-0'}`}>
           ← Vorige
         </span>
@@ -81,7 +81,7 @@ export default function FlashCard({ card, theme, onSwipe, index, total }: FlashC
 
       {/* Card */}
       <div
-        className="perspective w-full max-w-md cursor-pointer"
+        className="perspective w-full cursor-pointer"
         style={{
           transform: `translateX(${dragX}px) rotate(${rotation}deg)`,
           opacity,
@@ -114,7 +114,7 @@ export default function FlashCard({ card, theme, onSwipe, index, total }: FlashC
             <span className="text-xs font-semibold uppercase tracking-widest text-white/70">
               Antwoord
             </span>
-            <p className="text-white text-xl font-medium text-center leading-relaxed">
+            <p className="text-white text-lg font-medium text-center">
               {card.answer}
             </p>
           </div>
