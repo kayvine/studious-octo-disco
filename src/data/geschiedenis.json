@@ -1,12 +1,66 @@
 [
-  { "question": "In welk jaar begon de Tweede Wereldoorlog?", "answer": "1939, met de inval van Duitsland in Polen op 1 september." },
-  { "question": "Wie was de eerste koning van het Verenigd Koninkrijk der Nederlanden?", "answer": "Willem I (1815–1840)." },
-  { "question": "Wat was de Gouden Eeuw?", "answer": "De 17e eeuw, waarin de Nederlanden uitblonken in handel, wetenschap, kunst en koloniale expansie." },
-  { "question": "Wanneer werd de Republiek der Zeven Verenigde Nederlanden uitgeroepen?", "answer": "In 1581, met de Akte van Verlatinghe." },
-  { "question": "Wie schilderde de Nachtwacht?", "answer": "Rembrandt van Rijn, in 1642." },
-  { "question": "Wat was de oorzaak van de Eerste Wereldoorlog?", "answer": "De moord op aartshertog Franz Ferdinand in 1914 was de directe aanleiding; achterliggende oorzaken waren nationalisme, imperialisme en het bondgenootschapsstelsel." },
-  { "question": "Wanneer viel de Berlijnse Muur?", "answer": "Op 9 november 1989." },
-  { "question": "Wat was de VOC?", "answer": "De Vereenigde Oostindische Compagnie (1602–1799), 's werelds eerste naamloze vennootschap en een grote koloniale handelsonderneming." },
-  { "question": "Wie was Napoleon Bonaparte?", "answer": "Een Frans militair leider en staatsman die keizer van Frankrijk werd (1804–1814/1815) en grote delen van Europa veroverde." },
-  { "question": "Wanneer en door wie werd Nederland bevrijd in WOII?", "answer": "Grotendeels in 1944–1945 door geallieerde troepen; de officiële bevrijding was op 5 mei 1945." }
+  {
+    "question": "Wat is 'De sedentaire samenleving'?",
+    "answer": "Een samenleving waarin de bevolking op dezelfde plaats blijft wonen."
+  },
+  {
+    "question": "Wat is 'De landbouw'?",
+    "answer": "Alle activiteiten van het verbouwen van gewassen en het teelt van dieren."
+  },
+  {
+    "question": "Wat is 'De landbouwsamenleving'?",
+    "answer": "De samenleving waarin de mens overleeft door aan landbouw te doen."
+  },
+  {
+    "question": "Wat is 'De agrarische revolutie'?",
+    "answer": "De overgang van een jacht- en verzamelaarsamenleving naar een landbouwsamenleving."
+  },
+  {
+    "question": "Hoe wordt de regio waarin de landbouw ontstond genoemd?",
+    "answer": "De Vruchtbare Sikkel."
+  },
+  {
+    "question": "Geef de definitie van 'keramiek'?",
+    "answer": "De verzamelnaam voor alle voorwerpen die van gebakken klei zijn gemaakt."
+  },
+  {
+    "question": "Hoe weet je dat er in de prehistorie al mensen waren die aan landbouw deden?",
+    "answer": "Door het vinden van graanresten en werktuigen (pot & maalstenen) die gebruikt werden bij de landbouw."
+  },
+  {
+    "question": "Waarom bakenden de eerste boeren hun huis en akker af?",
+    "answer": "Omdat het hun bezit was."
+  },
+  {
+    "question": "Wat is 'De ongelijkheid'?",
+    "answer": "De situatie waarbij niet iedereen even belangrijk, machtig of rijk is in een samenleving."
+  },
+  {
+    "question": "Wat is 'Domesticatie'?",
+    "answer": "Ingrijpen in de natuur om dieren en planten te kweken."
+  },
+  {
+    "question": "Waarom was de overgang naar de landbouw zowel een revolutie als een evolutie?",
+    "answer": "Omdat het een fundamentele verandering in de manier van leven en werken betekende, maar ook geleidelijk en progressief verliep."
+  },
+  {
+    "question": "Waarom ging de mens aan landbouw doen?",
+    "answer": "Door uitsterven/wegtrekken van wilde dieren, behoefte aan voedsel door toenemende bevolking of het feit dat mensen zich bij hun voedselvoorraden vestigden."
+  },
+  {
+    "question": "Benoem 3 veranderingen tussen de jacht- en verzamelaarsamenleving en de landbouwsamenleving.",
+    "answer": "ploeg, weefgetouw, vee, vaste huizen, maalsteen."
+  },
+  {
+    "question": "Geef 2 positieve gevolgen van de ontwikkeling van de landbouw.",
+    "answer": "Meer mensen eten geven, kans om voorraden aan te leggen, doorgeven van gebruiksvoorwerpen en kennis, bezittingen beschermen."
+  },
+  {
+    "question": "Geef 2 negatieve gevolgen van de ontwikkeling van de landbouw.",
+    "answer": "Ontstaan van oorlogen om grondgebied, meer ziektes, meer ziektes, harder werken, ontstaan van sociale ongelijkheden."
+  },
+  {
+    "question": "Geef een voorbeeld van zowel continuïteit als verandering in de overgang van de jacht- en verzamelaarsamenleving naar de landbouwsamenleving.",
+    "answer": "Continuïteit: Mensen blijven jagen en verzamelen/Ze leven in kleine groepen samen. Verandering: Er onstaan dorpen/Er worden akkers aangelegd."
+  }
 ]
