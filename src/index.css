@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+/* 3D card flip perspective */
+.perspective {
+  perspective: 1000px;
+}
+
+.card-inner {
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  position: relative;
+}
+
+.card-inner.flipped {
+  transform: rotateY(180deg);
+}
+
+.card-face {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.card-back {
+  transform: rotateY(180deg);
+}
+
+/* Swipe transition */
+.card-swipe {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+body {
+  margin: 0;
+  background-color: #f8fafc;
+  font-family: system-ui, -apple-system, sans-serif;
+}

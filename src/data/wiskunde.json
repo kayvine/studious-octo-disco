@@ -1,0 +1,12 @@
+[
+  { "question": "Wat is 12 × 12?", "answer": "144" },
+  { "question": "Wat is de formule voor de oppervlakte van een cirkel?", "answer": "A = π × r²" },
+  { "question": "Wat is de stelling van Pythagoras?", "answer": "a² + b² = c²" },
+  { "question": "Wat is de wortel van 144?", "answer": "12" },
+  { "question": "Wat is 15% van 200?", "answer": "30" },
+  { "question": "Wat is de formule voor de omtrek van een cirkel?", "answer": "O = 2 × π × r" },
+  { "question": "Hoe bereken je het gemiddelde van getallen?", "answer": "Som van alle getallen gedeeld door het aantal getallen" },
+  { "question": "Wat is 2 tot de macht 8?", "answer": "256" },
+  { "question": "Wat is de formule voor de oppervlakte van een driehoek?", "answer": "A = ½ × b × h" },
+  { "question": "Hoeveel graden heeft een rechte hoek?", "answer": "90 graden" }
+]
