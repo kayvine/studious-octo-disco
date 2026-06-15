@@ -43,6 +43,12 @@ export default function StudyView({ theme, cards, onBackToHome }: StudyViewProps
     setDone(false);
   };
 
+  useEffect(() => {
+    setDeck(shuffle(cards));
+    setCurrentIndex(0);
+    setDone(false);
+  }, [cards]);
+
   // Keyboard navigation
   useEffect(() => {
     const handleKey = (e: KeyboardEvent) => {
