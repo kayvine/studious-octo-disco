@@ -56,7 +56,7 @@ export default function FlashCard({ card, theme, onSwipe, index, total }: FlashC
   return (
     <div className="flex flex-col items-center w-full gap-4 select-none" key={cardKey}>
       {/* Progress bar */}
-      <div className="">
+      <div className="w-full max-w-md">
         <div className="flex justify-between text-xs text-gray-400 mb-1">
           <span>{theme.label}</span>
           <span>{index + 1} / {total}</span>
