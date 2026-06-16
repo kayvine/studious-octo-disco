@@ -1,12 +1,70 @@
 [
-  { "question": "Wat is een werkwoord?", "answer": "Een woord dat een handeling, een toestand of een gebeuren aanduidt, bijv. lopen, zijn, vallen." },
-  { "question": "Wat is een bijvoeglijk naamwoord?", "answer": "Een woord dat een eigenschap van een zelfstandig naamwoord aangeeft, bijv. groot, mooi, snel." },
-  { "question": "Wat is een zelfstandig naamwoord?", "answer": "Een woord voor een persoon, dier, ding of begrip, bijv. tafel, hond, liefde." },
-  { "question": "Wat is een lidwoord?", "answer": "Het bepaald lidwoord is 'de' of 'het'; het onbepaald lidwoord is 'een'." },
-  { "question": "Wat is een bijwoord?", "answer": "Een woord dat meer informatie geeft bij een werkwoord, bijv. snel lopen, heel mooi." },
-  { "question": "Wat is een samengesteld woord?", "answer": "Een woord opgebouwd uit twee of meer andere woorden, bijv. voetbal (voet + bal)." },
-  { "question": "Wat is het verschil tussen 'hun' en 'hen'?", "answer": "'Hen' gebruik je na een voorzetsel (aan hen) of als lijdend voorwerp (ik zie hen). 'Hun' gebruik je als meewerkend voorwerp (ik geef hun)." },
-  { "question": "Wat is een zin met een onderwerp en een gezegde?", "answer": "Het onderwerp is wie/wat de zin over gaat; het gezegde vertelt wat het onderwerp doet of is." },
-  { "question": "Wat is een synoniem?", "answer": "Een woord met (bijna) dezelfde betekenis als een ander woord, bijv. blij en gelukkig." },
-  { "question": "Wat is een antoniem?", "answer": "Een woord met de tegengestelde betekenis, bijv. groot ↔ klein, snel ↔ langzaam." }
+  {
+    "question": "Wat is O.T.T.? (+ voorbeeld)",
+    "answer": "Onvoltooid tegenwoordige tijd, bijv. ik loop, ik ben, ik drink."
+  },
+  {
+    "question": "Wat is V.T.T.? (+ voorbeeld)",
+    "answer": "Voltooid tegenwoordige tijd, bijv. ik heb gelopen, ik heb gedronken."
+  },
+  {
+    "question": "Wat is O.V.T.? (+ voorbeeld)",
+    "answer": "Onvoltooid verleden tijd, bijv. ik liep, ik was, ik dronk."
+  },
+  {
+    "question": "Wat is V.V.T.? (+ voorbeeld)",
+    "answer": "Voltooid verleden tijd, bijv. ik had gelopen, ik had gedronken."
+  },
+  {
+    "question": "Wat is O.T.TK.T.? (+ voorbeeld)",
+    "answer": "Onvoltooid tegenwoordige toekomstige tijd, bijv. ik zal lopen, ik zal drinken."
+  },
+  {
+    "question": "Wat is V.T.TK.T.? (+ voorbeeld)",
+    "answer": "Voltooid tegenwoordige toekomstige tijd, bijv. ik zal gelopen hebben, ik zal gedronken hebben."
+  },
+  {
+    "question": "Wat is O.V.TK.T.? (+ voorbeeld)",
+    "answer": "Onvoltooid verleden toekomstige tijd, bijv. ik zou lopen, ik zou drinken."
+  },
+  {
+    "question": "Wat is V.V.TK.T.? (+ voorbeeld)",
+    "answer": "Voltooid verleden toekomstige tijd, bijv. ik zou gelopen hebben, ik zou gedronken hebben."
+  },
+  {
+    "question": "Wat is een bijvoeglijk naamwoord?",
+    "answer": "Een woord dat een eigenschap van een zelfstandig naamwoord aangeeft, bijv. groot, mooi, snel."
+  },
+  {
+    "question": "Wat is een zelfstandig naamwoord?",
+    "answer": "Een woord voor een persoon, dier, ding of begrip, bijv. tafel, hond, liefde."
+  },
+  {
+    "question": "Wat is een lidwoord?",
+    "answer": "Het bepaald lidwoord is 'de' of 'het'; het onbepaald lidwoord is 'een'."
+  },
+  {
+    "question": "Wat is een bijwoord?",
+    "answer": "Een woord dat meer informatie geeft bij een werkwoord, bijv. snel lopen, heel mooi."
+  },
+  {
+    "question": "Wat is een samengesteld woord?",
+    "answer": "Een woord opgebouwd uit twee of meer andere woorden, bijv. voetbal (voet + bal)."
+  },
+  {
+    "question": "Wat is het verschil tussen 'hun' en 'hen'?",
+    "answer": "'Hen' gebruik je na een voorzetsel (aan hen) of als lijdend voorwerp (ik zie hen). 'Hun' gebruik je als meewerkend voorwerp (ik geef hun)."
+  },
+  {
+    "question": "Wat is een zin met een onderwerp en een gezegde?",
+    "answer": "Het onderwerp is wie/wat de zin over gaat; het gezegde vertelt wat het onderwerp doet of is."
+  },
+  {
+    "question": "Wat is een synoniem?",
+    "answer": "Een woord met (bijna) dezelfde betekenis als een ander woord, bijv. blij en gelukkig."
+  },
+  {
+    "question": "Wat is een antoniem?",
+    "answer": "Een woord met de tegengestelde betekenis, bijv. groot ↔ klein, snel ↔ langzaam."
+  }
 ]
